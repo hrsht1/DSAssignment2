@@ -1,3 +1,25 @@
+commit a56d312d951c2b48311c8ddd98c802259311ed87
+Author: Harshit Singh <harshit15hs@gmail.com>
+Date:   Fri Jun 4 11:26:39 2021 +1000
+
+    Screenshot Added
+
+commit 6834f2fd27afe35bbf2ae4f41d4c004f683c1e24
+Author: Harshit Singh <harshit15hs@gmail.com>
+Date:   Fri Jun 4 11:25:11 2021 +1000
+
+    Task 3 - Execution on Server
+    
+    Screenshot of working code of Task 3 on server.
+
+commit 072fa7d46882037369366c9735d6b3961002de05
+Author: Harshit Singh <harshit15hs@gmail.com>
+Date:   Fri Jun 4 10:53:56 2021 +1000
+
+    Git
+    
+    Git log added - s3802306@student.rmit.edu.au
+
 commit 573ccab70bbfb9cdc5f36ab11f25734bccd32f6d
 Author: Harshit Singh <harshit15hs@gmail.com>
 Date:   Thu Jun 3 16:21:04 2021 +1000
